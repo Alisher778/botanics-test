@@ -63,7 +63,7 @@ class App extends Component {
     return( 
         <div className="App container">
           <div className="p-3">
-            <h1 className="text-center">Qo'vnoq Botanika</h1>
+            <h1 className="text-center">Quvnoq Botanika</h1>
           </div>
           
           {this.renderImg()}

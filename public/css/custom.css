@@ -1,3 +1,7 @@
+body{
+    background: url(../img/bg.jpg)no-repeat center fixed;
+    background-size: cover;
+}
 .border-left{
   border-right: 3px solid;
 }
@@ -14,3 +18,16 @@
     line-height: 60px;
     cursor: pointer;
 }
+#paginate img{
+    width: 50px;
+    margin: 10px 20px;
+}
+#paginate li{
+    list-style: none;
+}
+#paginate h2{
+    position: relative;
+    top: -12px;
+    font-size: 30px;
+}
+ul.list-group.answer li span{float: left;}
