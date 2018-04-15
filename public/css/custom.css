@@ -1,0 +1,16 @@
+.border-left{
+  border-right: 3px solid;
+}
+
+#refresh{
+  position: fixed;
+    right: 30px;
+    bottom: 30px;
+    background: #FF9800;
+    font-size: 32px;
+    border-radius: 56%;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    cursor: pointer;
+}

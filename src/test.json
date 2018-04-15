@@ -1,0 +1,8 @@
+{
+    "test":[
+        {"img":"http://alitech.uz/images/01.jpg", "cat":"rano", "fam":["rano", "mano"]},
+        {"img":"http://alitech.uz/images/02.jpg", "cat":"rano", "fam":["rano", "mano"]},
+        {"img":"http://alitech.uz/images/03.jpg", "cat":"rano", "fam":["rano", "mano"]},
+        {"img":"http://alitech.uz/images/04.jpg", "cat":"rano", "fam":["rano", "mano"]}
+    ]
+}
