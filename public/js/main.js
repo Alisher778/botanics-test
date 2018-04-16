@@ -31,7 +31,7 @@ $(document).ready(function(){
           // wait 5 seconds then hide the element
           setTimeout(() =>{
             $(this).parent().parent().parent().removeClass('current').addClass('d-none').next().addClass('current').removeClass('d-none'); 
-          },5000)
+          },3000)
         }
 
       } else if(clicked == last){
@@ -53,7 +53,7 @@ $(document).ready(function(){
 
         setTimeout(() =>{
           swal({icon: "success", text: "Siz berilgan 20 ta savoldan "+total+"gasiga to'g'ri javob berdingiz", title: total+"ta To'g'ri", button: "X"});
-        },2000);
+        },1000);
         return;
       }
     });

@@ -18,9 +18,10 @@ body{
     line-height: 60px;
     cursor: pointer;
 }
+#paginate{flex-wrap: wrap;}
 #paginate img{
-    width: 50px;
-    margin: 10px 20px;
+    width: 30px;
+    margin: 6px 15px;
 }
 #paginate li{
     list-style: none;
